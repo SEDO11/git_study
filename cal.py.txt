@@ -1,0 +1,5 @@
+def sum(x, y):
+	retrun x + y
+
+def sub(x, y):
+	return x - y
